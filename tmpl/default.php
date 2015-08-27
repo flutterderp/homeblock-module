@@ -18,6 +18,6 @@ defined('_JEXEC') or die;
 			<?php echo $module->content;?>
 		</div>
 
-<?php if($module->link_uri > 0) : ?>
+<?php if($modulelink_uri > 0) : ?>
 	</a>
 <?php endif; ?>
